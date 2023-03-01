@@ -52,6 +52,10 @@ Calculé el retorno anual: Una vez que se tienen los retornos diarios de las acc
 
 Interpretar los resultados: Una vez que se han calculado los retornos anuales de las acciones de cada empresa, se pueden comparar los resultados entre ellas y con el mercado de tecnología en general. Esto permitió identificar cuáles empresas han tenido un mejor desempeño y cuáles han sido menos exitosas en términos de rendimiento. También se pudo identificar tendencias y patrones en el comportamiento de las empresas a lo largo del tiempo, lo que puede ser útil para tomar decisiones informadas de inversión en el futuro.
 
+### `Conclusiones`
 
+Tras el análisis de las acciones del sector tecnológico, podemos concluir que son las de mayor rendimiento en el mercado. Asimismo, hemos observado que entre las acciones de las cinco empresas analizadas, las de Google presentan el mayor rendimiento y la menor volatilidad en el período evaluado.
 
+Además, hemos notado que el rendimiento de las acciones aumenta a medida que se amplía el marco de tiempo evaluado, lo que sugiere que invertir en el sector tecnológico puede ser una estrategia a largo plazo efectiva.
 
+En general, estas conclusiones apuntan a la importancia de considerar las características específicas de cada acción al momento de invertir y a la necesidad de un análisis detallado del rendimiento y la volatilidad de cada empresa. En conclusión, este estudio nos permite obtener información valiosa para la toma de decisiones en el mercado de inversión en el sector tecnológico.
