@@ -6,8 +6,6 @@
 # <h1 align="center">**`Mercado bursátil`**</h1>
 ## <h1 align="center">**Juan Jose Perez**</h1>
 
-¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
-
 
 
 ## **Descripción del problema **
@@ -22,7 +20,7 @@ Para este estudio se cuenta con los datos de los precios de las acciones del SP5
 
 
 
-### Posible solución
+### `Posible solución`
 
 -1 Definir el objetivo de inversión: El primer paso es conocer cuál es el objetivo de inversión de la persona que quiere invertir el millón de dólares en acciones del sector tecnológico. ¿Es a largo plazo o a corto plazo? ¿Cuál es el nivel de riesgo que está dispuesto a asumir? ¿Cuál es su horizonte de inversión? Esto permitirá definir un marco de referencia para el análisis.
 
@@ -34,7 +32,7 @@ Para este estudio se cuenta con los datos de los precios de las acciones del SP5
 
 -5 Presentaremos los  resultados del análisis a la persona o empresa que desea invertir el capital necesario en acciones del sector tecnológico. Es importante presentar los resultados de manera clara y concisa, y explicar cómo se llegó a las conclusiones y recomendaciones de inversión. También es importante recordar que la inversión siempre conlleva riesgos, y que los resultados del análisis no garantizan el éxito en la inversión.
 
-### Puntos importantes 
+### `Puntos importantes` 
 
 En lugar de estudiar las acciones de las 500 empresas que conforman el S&P 500, se ha decidido enfocar el análisis en cinco empresas específicas del sector tecnológico. Esta decisión se debe a diferentes motivos, como la especialización en este sector o la creencia de que estas empresas tienen un potencial de crecimiento mayor que otras en el índice. Al reducir el universo de estudio a solo cinco empresas, el análisis puede ser más específico y enfocado, lo que permitirá obtener una visión más detallada del desempeño de estas empresas en el mercado.
 
@@ -42,7 +40,7 @@ El marco de tiempo seleccionado para el estudio será a partir del año 2012. Es
 
 Los KPI (Key Performance Indicators) a estudiar serán el rendimiento, la volatilidad y el riesgo. Estos KPI son fundamentales para evaluar el desempeño de las empresas seleccionadas en el mercado de tecnología. El rendimiento permite medir la rentabilidad de la inversión, la volatilidad mide la fluctuación de los precios de las acciones y el riesgo mide la probabilidad de perder dinero en la inversión. Al analizar estos KPI, se puede determinar el grado de éxito y estabilidad financiera de las empresas en el sector tecnológico, lo que permitirá tomar decisiones informadas de inversión.
 
-### Calculos importantes
+### `Calculos importantes`
 
 Para calcular el retorno anual a partir de los precios de cierre de las acciones de estas cinco empresas, se sigió los siguientes pasos:
 
